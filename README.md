@@ -11,7 +11,7 @@ timezone: Asia/Tokyo
 _export:
   plugin:
     repositories:
-      - https://gyam.bintray.com/maven/
+      - https://dl.bintray.com/gymxxx/maven/
     dependencies:
       - io.digdag.plugin.gcp:digdag-bq-wait:0.1.0
 
